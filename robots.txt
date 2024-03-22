@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: *
+
+User-agent: Googlebot
+Allow: *
+
+Sitemap: http://blog.loudervoice.com/sitemap.txt
